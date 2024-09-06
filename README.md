@@ -8,21 +8,21 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Prepare your data - Clean and format your data - Split your data into training and testing sets
+STEP 1.Prepare your data - Clean and format your data - Split your data into training and testing sets
 
-2.Define your model - Use a sigmoid function to map inputs to outputs - Initialize weights and bias terms
+STEP 2.Define your model - Use a sigmoid function to map inputs to outputs - Initialize weights and bias terms
 
-3.Define your cost function - Use binary cross-entropy loss function - Penalize the model for incorrect predictions
+STEP 3.Define your cost function - Use binary cross-entropy loss function - Penalize the model for incorrect predictions
 
-4.Define your learning rate - Determines how quickly weights are updated during gradient descent
+STEP 4.Define your learning rate - Determines how quickly weights are updated during gradient descent
 
-5.Train your model - Adjust weights and bias terms using gradient descent - Iterate until convergence or for a fixed number of iterations
+STEP 5.Train your model - Adjust weights and bias terms using gradient descent - Iterate until convergence or for a fixed number of iterations
 
-6.Evaluate your model - Test performance on testing data - Use metrics such as accuracy, precision, recall, and F1 score
+STEP 6.Evaluate your model - Test performance on testing data - Use metrics such as accuracy, precision, recall, and F1 score
 
-7.Tune hyperparameters - Experiment with different learning rates and regularization techniques
+STEP 7.Tune hyperparameters - Experiment with different learning rates and regularization techniques
 
-8.Deploy your model - Use trained model to make predictions on new data in a real-world application.
+STEP 8.Deploy your model - Use trained model to make predictions on new data in a real-world application.
 ## Program:
 ```
 /*
@@ -106,7 +106,9 @@ print(y_prednew)
 
 ## Output:
 ![Screenshot 2024-09-06 113618](https://github.com/user-attachments/assets/ea8cc588-25f8-4c8c-a774-cbe3de1e0f32)
+
 ![Screenshot 2024-09-06 113625](https://github.com/user-attachments/assets/5ec31111-8f0d-47a8-9c0d-da32c83986c2)
+
 ![Screenshot 2024-09-06 113628](https://github.com/user-attachments/assets/7f9346f1-61ca-4fe8-bffd-46f7977984a7)
 
 
