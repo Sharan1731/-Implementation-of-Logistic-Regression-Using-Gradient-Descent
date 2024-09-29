@@ -8,21 +8,25 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-STEP 1.Prepare your data - Clean and format your data - Split your data into training and testing sets
+STEP 1.START
 
-STEP 2.Define your model - Use a sigmoid function to map inputs to outputs - Initialize weights and bias terms
+STEP 2.Prepare your data - Clean and format your data - Split your data into training and testing sets
 
-STEP 3.Define your cost function - Use binary cross-entropy loss function - Penalize the model for incorrect predictions
+STEP 3.Define your model - Use a sigmoid function to map inputs to outputs - Initialize weights and bias terms
 
-STEP 4.Define your learning rate - Determines how quickly weights are updated during gradient descent
+STEP 4.Define your cost function - Use binary cross-entropy loss function - Penalize the model for incorrect predictions
 
-STEP 5.Train your model - Adjust weights and bias terms using gradient descent - Iterate until convergence or for a fixed number of iterations
+STEP 5.Define your learning rate - Determines how quickly weights are updated during gradient descent
 
-STEP 6.Evaluate your model - Test performance on testing data - Use metrics such as accuracy, precision, recall, and F1 score
+STEP 6.Train your model - Adjust weights and bias terms using gradient descent - Iterate until convergence or for a fixed number of iterations
 
-STEP 7.Tune hyperparameters - Experiment with different learning rates and regularization techniques
+STEP 7.Evaluate your model - Test performance on testing data - Use metrics such as accuracy, precision, recall, and F1 score
 
-STEP 8.Deploy your model - Use trained model to make predictions on new data in a real-world application.
+STEP 8.Tune hyperparameters - Experiment with different learning rates and regularization techniques
+
+STEP 9.Deploy your model - Use trained model to make predictions on new data in a real-world application.
+
+STEP 10.END
 ## Program:
 ```
 /*
